@@ -1,0 +1,57 @@
+[
+    {
+      "recipe_image": "https://i.ibb.co/2dPySwF/pexels-jane-doan-1099680.jpg",
+      "recipe_id": 12345,
+      "recipe_name": "Spicy Chicken Curry",
+      "short_description": "A flavorful and aromatic chicken curry with a kick of spice.",
+      "ingredients": ["Chicken", "Onion", "Garlic", "Ginger" ],
+      "preparing_time": "45 minutes",
+      "calories": "380 per serving"
+    },
+    {
+      "recipe_image": "https://i.ibb.co/jV5B35B/pexels-ash-376464.jpg",
+      "recipe_id": 67890,
+      "recipe_name": "Veggie Quinoa Salad",
+      "short_description": "A refreshing salad packed with colorful veggies and protein-rich quinoa.",
+      "ingredients": ["Quinoa", "Bell Peppers", "Cucumber", "Cherry Tomatoes"],
+      "preparing_time": "30 minutes",
+      "calories": "250 per serving"
+    },
+    {
+      "recipe_image": "https://i.ibb.co/4K5zLLF/pexels-valeria-boltneva-842571.jpg",
+      "recipe_id": 24680,
+      "recipe_name": "Creamy Mushroom Risotto",
+      "short_description": "A creamy and indulgent risotto with earthy mushrooms.",
+      "ingredients": ["Arborio Rice", "Mushrooms", "Onion", "Garlic"],
+      "preparing_time": "50 minutes",
+      "calories": "320 per serving"
+    },
+    {
+      "recipe_image": "https://i.ibb.co/FWtRj44/pexels-malidate-van-769289.jpg",
+      "recipe_id": 13579,
+      "recipe_name": "Grilled Salmon with Lemon-Dill Sauce",
+      "short_description": "Succulent grilled salmon topped with a zesty lemon-dill sauce.",
+      "ingredients": ["Salmon Fillets", "Lemon", "Fresh Dill", "Olive Oil"],
+      "preparing_time": "25 minutes",
+      "calories": "300 per serving"
+    },
+    {
+      "recipe_image": "https://i.ibb.co/JrYyS1c/pexels-julie-aagaard-2097090.jpg",
+      "recipe_id": 36912,
+      "recipe_name": "Spinach and Feta Stuffed Chicken Breast",
+      "short_description": "Juicy chicken breasts stuffed with savory spinach and creamy feta cheese.",
+      "ingredients": ["Chicken Breast", "Spinach", "Feta Cheese", "Garlic"],
+      "preparing_time": "40 minutes",
+      "calories": "280 per serving"
+    },
+    {
+      "recipe_image": " https://i.ibb.co/yqKpdZh/pexels-jang-s-699953.jpg",
+      "recipe_id": 97531,
+      "recipe_name": "Chocolate Banana Smoothie Bowl",
+      "short_description": "A rich and indulgent smoothie bowl featuring the classic combination of chocolate and banana.",
+      "ingredients": ["Banana", "Cocoa Powder", "Almond Milk", "Greek Yogurt"],
+      "preparing_time": "10 minutes",
+      "calories": "350 per serving"
+    }
+  ]
+  
