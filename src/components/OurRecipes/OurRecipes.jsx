@@ -1,8 +1,17 @@
+import { useState } from "react";
 import Recipes from "../Recipes/Recipes";
 import WantToCook from "../WantToCook/WantToCook";
 
 
+
 const OurRecipes = () => {
+
+    const [wont, setWont] = useState([]);
+    
+  const handleWont = recipe =>{
+    const newRecipe = [...wont, recipe]
+    setWont(newRecipe)
+  }
     return (
         <div className="m-5">
             <div className="mb-5">
@@ -11,11 +20,12 @@ const OurRecipes = () => {
             </div>
 
             <div className="flex gap-4">
-                <Recipes></Recipes>
-                <WantToCook></WantToCook>
+                <Recipes handleWont={handleWont}></Recipes>
+                <WantToCook wont={wont}></WantToCook>
             </div>
         </div>
     );
 };
+
 
 export default OurRecipes;
